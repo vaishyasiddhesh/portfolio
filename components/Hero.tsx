@@ -62,14 +62,14 @@ className="group flex items-center gap-2 rounded-full bg-gray-800 px-7 py-4 font
             {/* Social */}
             <div className="mt-10 flex gap-4">
               <a
-                href="#"
+                href="https://github.com/vaishyasiddhesh"
                 className="rounded-full border border-white/10 p-3 text-zinc-400 transition hover:border-white/30 hover:text-white"
               >
                 <Github size={19} />
               </a>
 
               <a
-                href="#"
+                href="https://in.linkedin.com/in/siddhesh-vaishya-749429298"
                 className="rounded-full border border-white/10 p-3 text-zinc-400 transition hover:border-white/30 hover:text-white"
               >
                 <Linkedin size={19} />

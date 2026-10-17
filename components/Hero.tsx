@@ -30,7 +30,8 @@ export default function Hero() {
               Siddhesh
               <br />
               <span className="gradient-text">
-                Full-Stack Developer
+                Full-Stack Developer & Devops engineer
+                
               </span>
             </h1>
 
